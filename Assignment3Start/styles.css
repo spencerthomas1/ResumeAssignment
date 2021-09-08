@@ -1,5 +1,5 @@
 body {
-    color: dimgray;
+    color: lightsteelblue;
     
 }
 img {
@@ -17,4 +17,9 @@ header {
 
 .Work {
     background: lightslategrey;
+}
+
+footer {
+    background: dimgray;
+
 }
