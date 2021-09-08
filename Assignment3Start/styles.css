@@ -1,0 +1,20 @@
+body {
+    color: dimgray;
+    
+}
+img {
+    width: 250px;
+    height: 300px;
+}
+header {
+    background: rgb(173, 0, 0);
+    
+}
+
+.Projects {
+    background: gray;
+}
+
+.Work {
+    background: lightslategrey;
+}
