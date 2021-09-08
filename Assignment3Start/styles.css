@@ -1,10 +1,16 @@
 body {
     color: lightsteelblue;
-    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 img {
     width: 250px;
     height: 300px;
+}
+a {
+    color: rgb(104, 14, 14);
+}
+a:hover {
+    text-decoration: none;
 }
 header {
     background: rgb(173, 0, 0);
@@ -13,6 +19,17 @@ header {
 
 .Projects {
     background: gray;
+}
+.Projects .btn {
+    color: white;
+    background: black;
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 4px;
+}
+.Projects .btn:hover {
+    background: black; 
+    opacity: 80%;
 }
 
 .Work {
