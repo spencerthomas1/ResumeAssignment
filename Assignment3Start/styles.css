@@ -1,6 +1,7 @@
 body {
     color: lightsteelblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
 }
 img {
     width: 250px;
@@ -12,11 +13,21 @@ a {
 a:hover {
     text-decoration: none;
 }
+h2 {
+    margin: 0px;
+}
+.content-wrap {
+    width: 800px;
+    margin: 0 auto;
+    padding:20px 0 ;
+}
 header {
     background: rgb(173, 0, 0);
     
 }
-
+h1 {
+    font-family: 'Bangers', cursive;
+}
 .Projects {
     background: gray;
 }
