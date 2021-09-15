@@ -6,6 +6,7 @@ body {
 img {
     width: 250px;
     height: 300px;
+    float: inherit;
 }
 a {
     color: rgb(104, 14, 14);
@@ -50,4 +51,8 @@ h1, h2 {
 footer {
     background: dimgray;
 
+}
+h3 {
+    margin-top: 2px;
+    border-top: dotted;
 }
