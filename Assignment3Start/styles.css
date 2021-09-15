@@ -25,7 +25,7 @@ header {
     background: rgb(173, 0, 0);
     
 }
-h1 {
+h1, h2 {
     font-family: 'Bangers', cursive;
 }
 .Projects {
